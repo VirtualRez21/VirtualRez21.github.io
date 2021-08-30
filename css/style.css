@@ -59,11 +59,11 @@ li{
     color: white;
 }
 
-.footer section li{
+.footer section td{
     padding: 5px;
 }
 
-.footer section li img{
+.footer section td img{
     width: 1.2rem;
     filter: invert(90%);
 }
